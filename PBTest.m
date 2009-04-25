@@ -2,7 +2,7 @@
 
 @implementation PBTest
 
-- (void)doeIt
+- (void)doIt
 {
   NSLog(@"Hello from Objective-C!\n");
 }

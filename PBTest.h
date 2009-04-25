@@ -4,6 +4,6 @@
 {
 }
 
--(void) doeIt;
+-(void) doIt;
 @end
                  
